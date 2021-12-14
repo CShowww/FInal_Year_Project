@@ -1,2 +1,2 @@
 # 群体行为识别研究
-![IMAGE ALT TEXT HERE](https://article-fd.zol-img.com.cn/t_s998x562c5/g5/M00/09/0B/ChMkJltpNZiILpPCAATm98w1nB0AAqhNgI6_LAABOcP949.jpg)
+![IMAGE ALT TEXT HERE](https://github.com/CShowww/FInal_Year_Project/blob/main/%E7%BD%91%E7%BB%9C%E5%9B%BE.png)
